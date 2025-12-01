@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=F7EFEF&background=2C1BFF00&width=435&lines=Welcome+to+my+profile+%3C3)](https://git.io/typing-svg)
+
 # 💫 About Me:
 👋 Hi, I’m Skander Wali — a passionate developer and cybersecurity enthusiast.  <br>💻 I love building clean, efficient, and secure software solutions.  <br>🚀 Currently exploring full-stack development, ethical hacking, and low-level systems (like CPU design).  <br>🧠 Always learning, always improving — one repo at a time.  <br><br>🌐 Check out my projects and feel free to connect or collaborate!  
 
