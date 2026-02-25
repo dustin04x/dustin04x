@@ -1,11 +1,8 @@
-<!-- HEADER -->
-<h1 align="center">Hi, I'm Skander Wali 👋</h1>
-<h3 align="center">Cybersecurity Enthusiast | Systems Developer | Full-Stack Engineer</h3>
+<h1 align="center">Skander Wali</h1>
+<h3 align="center">Cybersecurity Enthusiast • Systems Developer • Full-Stack Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/dustin04x">
-    <img src="https://komarev.com/ghpvc/?username=dustin04x&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=dustin04x&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -13,12 +10,12 @@
 ## 🧠 About Me
 
 - 🔐 Technical Manager — University Cybersecurity Club  
-- 🏴‍☠️ Active CTF player & challenge creator  
-- 💻 Passionate about secure software & low-level systems  
-- ⚙️ Exploring CPU design & systems architecture  
-- 📚 Constantly improving fundamentals  
+- 🏴‍☠️ Active CTF Player & Challenge Creator  
+- 💻 Focused on secure, efficient software systems  
+- ⚙️ Exploring CPU design & low-level architecture  
+- 📚 Always improving fundamentals  
 
-I focus on building **secure, efficient, and scalable systems**.
+I bridge **security research** with **practical engineering**.
 
 ---
 
@@ -31,7 +28,7 @@ I focus on building **secure, efficient, and scalable systems**.
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🌐 Web
+### 🌐 Web Development
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,29 +38,44 @@ I focus on building **secure, efficient, and scalable systems**.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚙ Tools
+### ⚙ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
+## 🔐 Cybersecurity Interests
+
+- Binary Exploitation  
+- Reverse Engineering  
+- Web Application Security  
+- Secure Coding Practices  
+- CTF Challenge Development  
+- Systems Programming  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dustin04x&show_icons=true&theme=dracula&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dustin04x&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800" 
+  />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustin04x&layout=compact&theme=dracula&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustin04x&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" 
+  />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔍 Advanced Binary Exploitation  
-- 🛡 Web Application Security  
-- ⚙️ Systems Programming in Rust  
-- 🧩 Designing a Minimal CPU Architecture  
+- ⚙️ Designing a Minimal CPU Architecture  
+- 🛡 Advanced Web Exploitation  
+- 🦀 Deepening Rust Systems Knowledge  
+- 🧩 Publishing Original CTF Challenges  
 
 ---
 
@@ -75,4 +87,4 @@ I focus on building **secure, efficient, and scalable systems**.
 
 ---
 
-> “Security is not a feature — it’s an architecture decision.”
+> “Security is not a feature — it’s an architectural decision.”
