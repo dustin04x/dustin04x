@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Skander Wali — Security-minded systems</title>
+<desc id="desc">A minimalist graphite and violet profile banner for Skander Wali.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101116"/><stop offset="1" stop-color="#191522"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#c4b5fd"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#a78bfa" stroke-opacity=".10"/></pattern>
+</defs>
+<rect width="1200" height="340" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="18" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="338" rx="17" fill="none" stroke="#3b3548"/>
+<path d="M54 54H1146M54 286H1146" stroke="#494052" stroke-opacity=".8"/>
+<text x="58" y="39" fill="#a78bfa" font-family="SF Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3">DUSTIN04X  /  PROFILE 001</text>
+<text x="58" y="151" fill="#f5f3ff" font-family="SF Pro Display, Inter, Helvetica Neue, Arial, sans-serif" font-size="66" font-weight="650" letter-spacing="-2">SKANDER WALI</text>
+<rect x="60" y="176" width="66" height="3" rx="1.5" fill="url(#accent)"/>
+<text x="58" y="218" fill="#d8d2e5" font-family="SF Pro Text, Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="400">Security-minded systems. Software built to understand them.</text>
+<text x="58" y="258" fill="#a7a0b5" font-family="SF Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5">CYBERSECURITY  ·  SYSTEMS ENGINEERING  ·  LINUX</text>
+<g transform="translate(1015 104)">
+<circle cx="70" cy="70" r="67" fill="#a78bfa" fill-opacity=".08" stroke="#a78bfa" stroke-opacity=".6"/>
+<circle cx="70" cy="70" r="53" fill="none" stroke="#a78bfa" stroke-opacity=".25" stroke-dasharray="3 7"/>
+<path d="M35 105L70 35L105 105H84L70 77L56 105Z" fill="#c4b5fd"/>
+<path d="M48 116H92" stroke="#c4b5fd" stroke-width="2"/>
+<text x="70" y="139" text-anchor="middle" fill="#c4b5fd" font-family="SF Mono, Menlo, monospace" font-size="9" letter-spacing="2">SW / 04X</text>
+</g>
+<text x="1140" y="319" text-anchor="end" fill="#71677f" font-family="SF Mono, Menlo, monospace" font-size="10" letter-spacing="2">TUNISIA · 2026</text>
+</svg>
