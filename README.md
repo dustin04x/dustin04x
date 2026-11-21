@@ -1,331 +1,282 @@
 
 <div align="center">
 
-```text
-     ██████╗ ██╗   ██╗███████╗████████╗██╗███╗   ██╗
-    ██╔═══██╗██║   ██║██╔════╝╚══██╔══╝██║████╗  ██║
-    ██║   ██║██║   ██║███████╗   ██║   ██║██╔██╗ ██║
-    ██║▄▄ ██║██║   ██║╚════██║   ██║   ██║██║╚██╗██║
-    ╚██████╔╝╚██████╔╝███████║   ██║   ██║██║ ╚████║
-     ╚══▀▀═╝  ╚═════╝ ╚══════╝   ╚═╝   ╚═╝╚═╝  ╚═══╝
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:050505,50:111111,100:050505&text=SKANDER%20WALI&fontSize=58&fontColor=ffffff&fontFamily=JetBrains%20Mono&fontAlignY=42&desc=CYBERSECURITY%20%2F%2F%20SYSTEMS%20ENGINEERING%20%2F%2F%20SOFTWARE&descSize=13&descAlignY=65&animation=fadeIn" />
 
-              S K A N D E R   W A L I
-```
+<br/>
 
-<h3>CYBERSECURITY · SYSTEMS ENGINEERING · SOFTWARE DEVELOPMENT</h3>
-
-<sub>BUILDING TOOLS · UNDERSTANDING SYSTEMS · BREAKING ASSUMPTIONS</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=2800&pause=1000&color=E5E5E5&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Building+tools+that+solve+real+problems.;Understanding+systems+below+the+abstraction.;Security+research+%2F%2F+Low-level+engineering.;Build.+Break.+Understand.+Repeat." />
 
 <br/>
 
 <a href="https://github.com/dustin04x">
-<img src="https://komarev.com/ghpvc/?username=dustin04x&style=flat-square&color=111111&label=PROFILE+SIGNALS" />
+<img src="https://komarev.com/ghpvc/?username=dustin04x&style=flat-square&color=777777&label=PROFILE+VIEWS" />
 </a>
+&nbsp;
 <a href="https://github.com/dustin04x?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-111111?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/REPOSITORIES-111111?style=flat-square&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:skanderwali@protonmail.com">
-<img src="https://img.shields.io/badge/CONTACT-OPEN-111111?style=flat-square&logo=protonmail&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN_TO_COLLABORATION-111111?style=flat-square&logo=protonmail&logoColor=white" />
 </a>
 
 </div>
 
----
+<br/>
 
 ```text
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   USER       : SKANDER WALI                                      │
-│   HANDLE     : dustin04x                                         │
-│   ROLE       : CYBERSECURITY ENTHUSIAST / SYSTEMS DEVELOPER      │
-│   ENVIRONMENT: LINUX / LOW-LEVEL / SECURITY / SOFTWARE           │
-│   MODE       : BUILDING                                          │
-│                                                                  │
-│   ────────────────────────────────────────────────────────────   │
-│                                                                  │
-│   MINDSET    : UNDERSTAND > IMPLEMENT > BREAK > IMPROVE          │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+  ┌─────────────────────────────────────────────────────────────┐
+  │                                                             │
+  │    ███████╗██╗  ██╗███╗   ██╗                               │
+  │    ██╔════╝██║ ██╔╝████╗  ██║                               │
+  │    ███████╗█████╔╝ ██╔██╗ ██║                               │
+  │    ╚════██║██╔═██╗ ██║╚██╗██║                               │
+  │    ███████║██║  ██╗██║ ╚████║                               │
+  │    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝                               │
+  │                                                             │
+  │    OPERATOR       dustin04x                                  │
+  │    DISCIPLINE     Security / Systems / Engineering           │
+  │    ENVIRONMENT    Linux / Rust / C / Python                  │
+  │    APPROACH       Understand the internals.                  │
+  │                   Build beyond the abstraction.              │
+  │                                                             │
+  └─────────────────────────────────────────────────────────────┘
 ```
 
-## `01` — THE OPERATOR
+# 00 / INTRODUCTION
 
-I'm Skander, a computer science student and developer fascinated by the intersection of cybersecurity, systems engineering, and software development.
+I'm **Skander Wali**, a computer science student and cybersecurity enthusiast focused on building software, understanding systems, and exploring how things work beneath the surface.
 
-I enjoy understanding what happens beneath abstractions — from network protocols and operating system internals to memory, execution, and application security.
+My interests sit at the intersection of:
 
-I don't just want to use existing tools. I want to understand their internals, challenge their assumptions, and build my own.
+- **Systems Engineering** — Rust, C/C++, Linux internals, eBPF and low-level architecture.
+- **Cybersecurity** — Binary exploitation, reverse engineering, network security and digital forensics.
+- **Security Engineering** — HTTP tooling, security automation, DevSecOps and application security.
+- **Software Development** — Backend architecture, desktop applications and full-stack engineering.
 
-**My engineering interests:**
+I enjoy building things from the ground up, investigating technical problems and turning ideas into functional software.
 
-- Offensive security, exploitation and reverse engineering.
-- Systems programming and operating system internals.
-- Network protocols, traffic inspection and analysis.
-- Security automation and developer tooling.
-- Secure backend architecture and application development.
-- Low-level programming, performance and architecture.
+> I prefer understanding how something works over simply knowing how to use it.
 
 ---
 
-## `02` — TECHNICAL STACK
+# 01 / SELECTED WORK
+
+*Engineering projects. Real implementations. Continuous experimentation.*
 
 <div align="center">
 
-**LANGUAGES**
+<a href="https://github.com/dustin04x/RAWFR4ME">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dustin04x&repo=RAWFR4ME&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" />
+</a>
+<a href="https://github.com/dustin04x/syscall">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dustin04x&repo=syscall&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,java,js,ts&theme=dark" />
+<a href="https://github.com/dustin04x/ELVYN">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dustin04x&repo=ELVYN&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" />
+</a>
+<a href="https://github.com/dustin04x/FlowState">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dustin04x&repo=FlowState&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" />
+</a>
 
-**DEVELOPMENT**
+</div>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,electron&theme=dark" />
+### `01.1` RAWFRAME
 
-**DATABASES & INFRASTRUCTURE**
+**Terminal-native HTTP interception and security testing workbench.**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,linux,bash,git,github&theme=dark" />
+A Rust-based security tool for authorized HTTP testing, traffic inspection and request manipulation.
+
+- HTTP/1.1, HTTP/2 and WebSocket testing.
+- Local forward proxy.
+- Opt-in TLS interception.
+- Durable SQLite request history.
+- Interactive request repeater and intruder.
+- Keyboard-driven terminal interface.
+
+[Repository](https://github.com/dustin04x/RAWFR4ME) · [Documentation](https://rawframe.mintlify.site) · [Releases](https://github.com/dustin04x/RAWFR4ME/releases)
+
+### `01.2` SYSCALL
+
+**Linux runtime forensics powered by kernel telemetry.**
+
+An exploration of Linux kernel observability using eBPF and Rust.
+
+- Process lifecycle instrumentation.
+- File-open event collection.
+- Network connection event collection.
+- Rust event decoding.
+- SQLite evidence persistence.
+- CLI and read-only desktop workbench.
+
+[Repository](https://github.com/dustin04x/syscall) · [Documentation](https://syscall.mintlify.site)
+
+### `01.3` ELVYN
+
+**Self-hosted DevSecOps security platform.**
+
+A security scanning platform combining application analysis and isolated scanner execution.
+
+- FastAPI backend.
+- Semgrep static analysis.
+- Gitleaks secret detection.
+- Trivy container scanning.
+- PostgreSQL persistence.
+- Docker-isolated scanner worker.
+
+[Repository](https://github.com/dustin04x/ELVYN)
+
+### `01.4` FLOWSTATE
+
+**Local-first desktop productivity application.**
+
+A focused desktop timer built with Electron, React and TypeScript.
+
+- Customizable focus sessions.
+- Timer presets and break management.
+- System tray integration.
+- Local-first statistics.
+- Windows, macOS and Linux releases.
+
+[Repository](https://github.com/dustin04x/FlowState) · [Website](https://dustin04x.github.io/FlowState/)
+
+---
+
+# 02 / THE TOOLCHAIN
+
+<div align="center">
+
+### SYSTEMS & LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,java&theme=dark" />
+
+### WEB & APPLICATION ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,electron&theme=dark" />
+
+### INFRASTRUCTURE & DATA
+
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,postgres,mysql,mongodb,git&theme=dark" />
 
 </div>
 
 <details>
-<summary><b>Detailed technical interests</b></summary>
+<summary><b>EXPLORE TECHNICAL DOMAINS</b></summary>
 
 | Domain | Technologies / Areas |
 |---|---|
-| Systems | Rust, C, C++, Linux, eBPF |
-| Programming | Python, Java, JavaScript, TypeScript |
-| Security | Binary Exploitation, Web Security, Reverse Engineering |
-| Networking | TCP/IP, HTTP, Traffic Analysis, Wireshark |
-| Backend | Node.js, Express, JWT, REST APIs |
-| Frontend | React, HTML, CSS |
+| Systems programming | Rust, C, C++ |
+| Scripting | Python, Bash |
+| Application development | JavaScript, TypeScript, React, Electron |
+| Backend engineering | Node.js, Express, FastAPI |
 | Databases | PostgreSQL, MySQL, MongoDB, SQLite |
-| Infrastructure | Docker, Linux, Bash, Git |
+| Security research | Binary exploitation, reverse engineering, web security |
+| Networking | TCP/IP, HTTP, Wireshark, traffic analysis |
+| Linux engineering | Linux administration, eBPF, system internals |
+| Infrastructure | Docker, Git, Linux |
 
 </details>
 
 ---
 
-## `03` — SELECTED ENGINEERING
-
-Not just repositories. Experiments, engineering challenges, and tools built to understand systems better.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>01 / RAWFRAME</h3>
-
-<img src="https://img.shields.io/badge/RUST-SYSTEMS-161616?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/SECURITY-TOOLING-161616?style=flat-square" />
-
-A systems-oriented HTTP proxy and repeater focused on traffic interception, inspection, manipulation, and replay.
-
-**Engineering highlights**
-
-- Interactive terminal interface.
-- HTTP proxy architecture.
-- TLS interception.
-- Request/response storage.
-- Functional HTTP repeater.
-- Decoder pipeline.
-
-<a href="https://github.com/dustin04x/RAWFRAME"><b>→ EXPLORE REPOSITORY</b></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>02 / ELVYN</h3>
-
-<img src="https://img.shields.io/badge/PYTHON-DEVSECOPS-161616?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SECURITY-AUTOMATION-161616?style=flat-square" />
-
-A DevSecOps security scanning platform designed to bring security analysis into a unified workflow.
-
-**Engineering highlights**
-
-- Static analysis with Semgrep.
-- Secret detection with Gitleaks.
-- Container scanning with Trivy.
-- PostgreSQL persistence.
-- JWT authentication.
-- Argon2id password hashing.
-
-<a href="https://github.com/dustin04x/ELVYN"><b>→ EXPLORE REPOSITORY</b></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>03 / SYSCALL</h3>
-
-<img src="https://img.shields.io/badge/RUST-LOW--LEVEL-161616?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/EBPF-KERNEL-161616?style=flat-square" />
-
-A Linux systems observability experiment exploring kernel-level event collection and processing.
-
-**Engineering highlights**
-
-- eBPF scheduler tracepoints.
-- Rust event decoder.
-- SQLite persistence.
-- Kernel event instrumentation.
-- Systems-level experimentation.
-
-</td>
-<td width="50%" valign="top">
-
-<h3>04 / FLOWSTATE</h3>
-
-<img src="https://img.shields.io/badge/ELECTRON-DESKTOP-161616?style=flat-square&logo=electron&logoColor=white" />
-<img src="https://img.shields.io/badge/TYPESCRIPT-APPLICATION-161616?style=flat-square&logo=typescript&logoColor=white" />
-
-A desktop productivity application built around focused work sessions and customizable workflows.
-
-**Engineering highlights**
-
-- Electron desktop architecture.
-- React and TypeScript.
-- Timer functionality.
-- Custom presets.
-- System tray integration.
-
-<a href="https://github.com/dustin04x/FlowState"><b>→ EXPLORE REPOSITORY</b></a>
-
-</td>
-</tr>
-</table>
-
----
-
-## `04` — SECURITY RESEARCH
+# 03 / RESEARCH & INTERESTS
 
 ```text
-                         ATTACK SURFACE
-                               │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-          NETWORK            BINARY              WEB
-          SECURITY          ANALYSIS           SECURITY
-             │                 │                 │
-       ┌─────┴─────┐     ┌─────┴─────┐     ┌─────┴─────┐
-       │           │     │           │     │           │
-    PACKETS    PROTOCOLS MEMORY    REVERSE  API       AUTH
-       │           │     │           │     │           │
-       └─────┬─────┘     └─────┬─────┘     └─────┬─────┘
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               │
-                      SYSTEMS SECURITY
-                               │
-                    UNDERSTAND THE MACHINE
+                         ┌──────────────────┐
+                         │   CYBERSECURITY  │
+                         └────────┬─────────┘
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+       ┌─────▼─────┐       ┌──────▼─────┐       ┌──────▼─────┐
+       │  NETWORK  │       │   BINARY   │       │    WEB     │
+       │  ANALYSIS │       │  ANALYSIS  │       │  SECURITY  │
+       └─────┬─────┘       └──────┬─────┘       └──────┬─────┘
+             │                    │                    │
+       Protocols              Exploitation          Pentesting
+       Traffic                 Reverse Eng.          Application
+       Forensics               Memory                API Security
+             │                    │                    │
+             └────────────────────┼────────────────────┘
+                                  │
+                         ┌────────▼─────────┐
+                         │ SYSTEMS SECURITY│
+                         └────────┬─────────┘
+                                  │
+                       Linux / Kernel / eBPF
+                       Architecture / Rust
 ```
-
-**Areas of exploration**
-
-- Binary exploitation
-- Reverse engineering
-- Web application security
-- Network security
-- Digital forensics
-- Cryptography
-- Linux internals
-- Secure coding
-- CTF research and challenge development
 
 ---
 
-## `05` — ENGINEERING BLUEPRINT
-
-How I think about building software:
-
-```mermaid
-flowchart TD
-    A["PROBLEM / RESEARCH"] --> B["SYSTEM ANALYSIS"]
-    B --> C["ARCHITECTURE & DESIGN"]
-    C --> D["IMPLEMENTATION"]
-    D --> E["TESTING & VALIDATION"]
-    E --> F{"DOES IT HOLD UP?"}
-    F -->|NO| B
-    F -->|YES| G["DOCUMENTATION & RELEASE"]
-    G --> H["ITERATE"]
-    H --> A
-
-    classDef main fill:#111111,stroke:#777777,color:#ffffff
-    classDef decision fill:#252525,stroke:#aaaaaa,color:#ffffff
-    class A,B,C,D,E,G,H main
-    class F decision
-```
-
-I value understanding, reproducibility, maintainability, and engineering decisions that can be explained.
-
----
-
-## `06` — CURRENT TRAJECTORY
+# 04 / DEVELOPMENT PHILOSOPHY
 
 ```bash
-┌──(dustin04x㉿localhost)-[~]
-└─$ cat /etc/engineering.conf
+#!/usr/bin/env bash
 
-FOCUS="Systems Engineering"
-RESEARCH="Offensive Security"
-LANGUAGE="Rust / C / Python"
-ENVIRONMENT="Linux"
-OBJECTIVE="Build meaningful security software"
+RESEARCH="understand the problem"
+DESIGN="question every abstraction"
+BUILD="write the implementation"
+TEST="verify every assumption"
+IMPROVE="repeat until it makes sense"
 
-└─$ ./next_milestone.sh
+echo "[+] Research"
+echo "[+] Design"
+echo "[+] Build"
+echo "[+] Test"
+echo "[+] Improve"
 
-[+] Deepening systems programming knowledge
-[+] Exploring exploitation techniques
-[+] Developing practical security tools
-[+] Improving security engineering workflows
-
-STATUS: IN PROGRESS
+# No shortcuts around understanding.
 ```
+
+I care about:
+
+- Building software that solves actual problems.
+- Understanding architectural and implementation trade-offs.
+- Writing maintainable, testable code.
+- Security as an engineering discipline, not an afterthought.
+- Documenting decisions and making technical work reproducible.
 
 ---
 
-## `07` — GITHUB TELEMETRY
+# 05 / GITHUB ACTIVITY
 
 <div align="center">
 
 <a href="https://github.com/dustin04x">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dustin04x&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dustin04x&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github" />
 </a>
 <a href="https://github.com/dustin04x">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustin04x&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustin04x&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&langs_count=8" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/dustin04x">
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=dustin04x&hide_border=true&background=0d1117&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=777777" />
-</a>
-
-<br/>
-
-<a href="https://github.com/dustin04x">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dustin04x&bg_color=0d1117&color=aaaaaa&line=ffffff&point=ffffff&area=true&hide_border=true" />
-</a>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=dustin04x&bg_color=0d1117&color=cccccc&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" />
 
 </div>
 
 ---
 
-## `08` — ESTABLISH CONNECTION
+# 06 / CONTRIBUTION GRID
 
 <div align="center">
 
-```text
-       ┌──────────────────────────────────────┐
-       │                                      │
-       │            OPEN CHANNEL              │
-       │                                      │
-       │    Collaboration / Security / Dev    │
-       │                                      │
-       │         CONNECTION AVAILABLE        │
-       │                                      │
-       └──────────────────────────────────────┘
-```
+<img width="96%" src="https://raw.githubusercontent.com/dustin04x/dustin04x/output/snake-dark.svg" alt="GitHub contribution snake animation" />
 
+</div>
+
+---
+
+# 07 / FIND ME
+
+<div align="center">
+
+<a href="https://github.com/dustin04x">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <a href="https://linkedin.com/in/skander-wali-901040391">
 <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -335,16 +286,21 @@ STATUS: IN PROGRESS
 <a href="mailto:skanderwali@protonmail.com">
 <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
-<a href="https://github.com/dustin04x">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 <br/><br/>
 
-**UNDERSTAND THE SYSTEM. QUESTION THE ABSTRACTION. BUILD SOMETHING BETTER.**
+```text
+  CONNECTION ESTABLISHED.
+
+  Security. Engineering. Open source.
+  Always interested in building something meaningful.
+
+  ──────────────────────────────────────────
+
+  UNDERSTAND THE SYSTEM.
+  BUILD WHAT DOESN'T EXIST.
+```
 
 <sub>SKANDER WALI · DUSTIN04X · 2026</sub>
-
-<sub>ENGINEERED WITH CURIOSITY.</sub>
 
 </div>
