@@ -1,82 +1,75 @@
-```markdown
+ <div align="center">
+  <img src="./assets/skander-profile-header.svg" alt="Skander Wali — Security-minded systems. Software built to understand them." width="100%">
+</div>
+
 <div align="center">
 
-# SKANDER WALI
-
-**SECURITY-MINDED SYSTEMS. SOFTWARE BUILT TO UNDERSTAND THEM.**
-
-Computer Science · Tunisia
-
-[GitHub](https://github.com/dustin04x) /
-[Portfolio](https://github.com/dustin04x/skander-wali-portfolio) /
-[LinkedIn](https://linkedin.com/in/skander-wali-901040391) /
-[Email](mailto:skanderwali@protonmail.com)
+[GitHub](https://github.com/dustin04x) · [Portfolio](https://github.com/dustin04x/skander-wali-portfolio) · [LinkedIn](https://linkedin.com/in/skander-wali-901040391) · [Email](mailto:skanderwali@protonmail.com)
 
 </div>
 
 ---
 
+## 01 / PROFILE
+
 ```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  PROFILE / 001                                      DUSTIN04X       │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  NAME       Skander Wali                                            │
-│  FIELD      Cybersecurity / Systems Engineering                    │
-│  BASE       Tunisia                                                 │
-│  EDUCATION  Computer Science — ISITCom                              │
-│                                                                     │
-│  BUILD      Security tools, systems software, developer tooling     │
-│  STUDY      Linux internals, network protocols, application security│
-│  EXPLORE    eBPF, reverse engineering, binary exploitation          │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+IDENTITY     Skander Wali
+HANDLE       dustin04x
+LOCATION     Tunisia
+EDUCATION    Computer Science · ISITCom
+
+DISCIPLINES  Cybersecurity / Systems Engineering
+BUILD        Security tools, systems software, developer tooling
+STUDY        Linux internals, network protocols, application security
+EXPLORE      eBPF, reverse engineering, binary exploitation
 ```
 
-### 01 — THE APPROACH
+I'm a Computer Science student interested in understanding software beyond its interfaces.
 
-I am a Computer Science student interested in understanding software beyond its interfaces.
-
-My work sits around cybersecurity, systems programming, and software engineering. I enjoy investigating how systems behave, understanding their boundaries, and building tools that make those systems easier to inspect, test, and understand.
+My work revolves around cybersecurity, systems programming, and software engineering. I enjoy investigating how systems behave, understanding their boundaries, and building tools that make them easier to inspect, test, and understand.
 
 I learn by building: researching a problem, implementing a solution, testing its behavior, and documenting the engineering behind it.
 
-I am particularly interested in the intersection of **security research and low-level software engineering**.
+My main interests are **security research, low-level software engineering, and Linux systems**.
 
 ---
 
-### 02 — SELECTED WORK
+## 02 / SELECTED WORK
 
-A selection of projects built around security, systems, and practical engineering.
+A selection of projects exploring security, systems, and practical engineering.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [01 / RAWFRAME](https://github.com/dustin04x/RAWFR4ME)
+### 01 — RAWFRAME
 
 **HTTP INTERCEPTION & SECURITY TESTING**
 
-A terminal-native HTTP interception and testing workbench written in Rust.
+[Repository ↗](https://github.com/dustin04x/RAWFR4ME)  
+[Documentation ↗](https://rawframe.mintlify.site)
+
+A terminal-native HTTP interception and security testing workbench written in Rust.
 
 - Local forward proxy
 - Opt-in TLS interception
-- HTTP/1.1, HTTP/2 and WebSocket support
+- HTTP/1.1, HTTP/2 and WebSockets
 - SQLite request history
 - Repeater and request analysis workflows
 
 `RUST` `HTTP` `TLS` `SQLITE`
 
-[Documentation ↗](https://rawframe.mintlify.site)
-
 </td>
 <td width="50%" valign="top">
 
-#### [02 / SYSCALL](https://github.com/dustin04x/syscall)
+### 02 — SYSCALL
 
 **LINUX RUNTIME FORENSICS**
 
-A Linux telemetry and investigation system built around real kernel events.
+[Repository ↗](https://github.com/dustin04x/syscall)  
+[Documentation ↗](https://syscall.mintlify.site)
+
+A Linux runtime forensics system built around real kernel telemetry.
 
 - eBPF event collection
 - Process lifecycle monitoring
@@ -85,69 +78,71 @@ A Linux telemetry and investigation system built around real kernel events.
 - SQLite evidence persistence
 - CLI and read-only desktop workbench
 
-`RUST` `eBPF` `LINUX` `TAURI`
-
-[Documentation ↗](https://syscall.mintlify.site)
+`RUST` `eBPF` `LINUX`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [03 / ROOTLAB](https://github.com/dustin04x/RootLab)
+### 03 — ROOTLAB
 
 **OFFENSIVE SECURITY SIMULATION**
+
+[Repository ↗](https://github.com/dustin04x/RootLab)  
+[Live Demo ↗](https://dustin04x.github.io/RootLab/)
 
 A browser-based cybersecurity learning platform built around simulated terminal workflows and mission-driven security scenarios.
 
 - Simulated shell environment
 - Mission-based progression
-- Flags, XP and achievements
 - Modular scenarios
-- No live infrastructure required
-
-[Live application ↗](https://dustin04x.github.io/RootLab/)
+- Safe, deterministic execution
 
 </td>
 <td width="50%" valign="top">
 
-#### [04 / SECTOOLS](https://github.com/dustin04x/Sectools)
+### 04 — SECTOOLS
 
-**SECURITY TOOLKIT**
+**PORTABLE SECURITY TOOLKIT**
 
-A portable browser-based toolkit combining practical offensive and defensive utilities.
+[Repository ↗](https://github.com/dustin04x/Sectools)
 
-- HTTP request testing
+A browser-based toolkit combining practical offensive and defensive security utilities.
+
 - Port scanning and service mapping
 - Cryptography and JWT inspection
 - IP intelligence and DNS lookup
-- IOC extraction and security analysis
+- HTTP security analysis
+- IOC extraction
 
 `NEXT.JS` `TYPESCRIPT` `FASTAPI` `PYTHON`
-
-[Source ↗](https://github.com/dustin04x/Sectools)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [05 / THREATCANVAS](https://github.com/dustin04x/ThreatCanvas)
+### 05 — THREATCANVAS
 
 **VISUAL MALWARE ATTACK SIMULATION**
+
+[Repository ↗](https://github.com/dustin04x/ThreatCanvas)  
+[Live Demo ↗](https://dustin04x.github.io/ThreatCanvas/)
 
 An interactive cybersecurity education platform for understanding threats, analyzing attacks, and exploring defensive strategies.
 
 `REACT` `TYPESCRIPT` `VITE`
 
-[Live application ↗](https://dustin04x.github.io/ThreatCanvas/)
-
 </td>
 <td width="50%" valign="top">
 
-#### [06 / METASCAN](https://github.com/dustin04x/Metascan)
+### 06 — METASCAN
 
 **IMAGE FORENSICS**
+
+[Repository ↗](https://github.com/dustin04x/Metascan)  
+[Live Demo ↗](https://dustin04x.github.io/Metascan/)
 
 A client-side image metadata extraction and analysis tool designed for privacy-conscious investigation and CTF workflows.
 
@@ -157,24 +152,22 @@ A client-side image metadata extraction and analysis tool designed for privacy-c
 - File signature inspection
 - Steganography indicators
 
-[Live application ↗](https://dustin04x.github.io/Metascan/)
-
 </td>
 </tr>
 </table>
 
-#### Other work
+### Other projects
 
 | Project | Description |
 |:--|:--|
 | [FlowState](https://github.com/dustin04x/FlowState) | Local-first desktop focus timer built with Electron and React. |
-| [PortScanner](https://github.com/dustin04x/portscanner) | Multithreaded open-port scanner. |
-| [Cryptography Helper](https://github.com/dustin04x/Cryptography-helper) | Browser-based encryption, decryption and cryptography learning tool. |
+| [PortScanner](https://github.com/dustin04x/portscanner) | Port scanning utility. |
+| [Cryptography Helper](https://github.com/dustin04x/Cryptography-helper) | Cryptography utility. |
 | [RSA Key Generator](https://github.com/dustin04x/rsa-key-generator) | RSA key generation utility. |
 
 ---
 
-### 03 — TECHNICAL STACK
+## 03 / TECHNICAL STACK
 
 **LANGUAGES**
 
@@ -184,7 +177,7 @@ A client-side image metadata extraction and analysis tool designed for privacy-c
 
 `Linux` `eBPF` `Docker` `Git` `SQLite` `PostgreSQL`
 
-**BACKEND & APPLICATION DEVELOPMENT**
+**APPLICATION DEVELOPMENT**
 
 `Node.js` `Express` `FastAPI` `React` `Electron` `Tauri`
 
@@ -198,7 +191,7 @@ A client-side image metadata extraction and analysis tool designed for privacy-c
 
 ---
 
-### 04 — CURRENT INTERESTS
+## 04 / CURRENT INTERESTS
 
 ```text
 [01]  Kernel-level observability and eBPF
@@ -210,7 +203,7 @@ A client-side image metadata extraction and analysis tool designed for privacy-c
 
 ---
 
-### 05 — BEYOND THE TERMINAL
+## 05 / BEYOND THE TERMINAL
 
 Outside software engineering, I spend time exploring music production, sound design, and creative workflows.
 
@@ -218,21 +211,18 @@ I enjoy the same process in both worlds: experimentation, iteration, and buildin
 
 ---
 
-### 06 — CONTACT
+## 06 / CONTACT
 
-Interested in cybersecurity, systems engineering, open-source collaboration, or potential PFE internship opportunities.
+Interested in cybersecurity, systems engineering, open-source collaboration, or PFE internship opportunities?
 
 **Let's build something worth understanding.**
 
 <div align="center">
 
-[EMAIL](mailto:skanderwali@protonmail.com) ·
-[LINKEDIN](https://linkedin.com/in/skander-wali-901040391) ·
-[GITHUB](https://github.com/dustin04x)
+[EMAIL](mailto:skanderwali@protonmail.com) · [LINKEDIN](https://linkedin.com/in/skander-wali-901040391) · [GITHUB](https://github.com/dustin04x)
 
-<br/>
+<br>
 
 <sub>SKANDER WALI / DUSTIN04X / 2026</sub>
 
 </div>
-```
