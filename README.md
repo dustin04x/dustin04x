@@ -1,306 +1,115 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:050505,50:111111,100:050505&text=SKANDER%20WALI&fontSize=58&fontColor=ffffff&fontFamily=JetBrains%20Mono&fontAlignY=42&desc=CYBERSECURITY%20%2F%2F%20SYSTEMS%20ENGINEERING%20%2F%2F%20SOFTWARE&descSize=13&descAlignY=65&animation=fadeIn" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=2800&pause=1000&color=E5E5E5&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Building+tools+that+solve+real+problems.;Understanding+systems+below+the+abstraction.;Security+research+%2F%2F+Low-level+engineering.;Build.+Break.+Understand.+Repeat." />
-
-<br/>
-
-<a href="https://github.com/dustin04x">
-<img src="https://komarev.com/ghpvc/?username=dustin04x&style=flat-square&color=777777&label=PROFILE+VIEWS" />
-</a>
-&nbsp;
-<a href="https://github.com/dustin04x?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-111111?style=flat-square&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:skanderwali@protonmail.com">
-<img src="https://img.shields.io/badge/OPEN_TO_COLLABORATION-111111?style=flat-square&logo=protonmail&logoColor=white" />
-</a>
-
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · dustin04x</sub></p>
+<h1>Skander Wali</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Tunisia</sub></p>
+<p><a href="https://github.com/dustin04x">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/79025357?u=e256b1301af10c1b17d1b407d4bbb2aa2e97d9c1&amp;v=4" width="180" alt="Skander Wali GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
-<br/>
-
-```text
-  ┌─────────────────────────────────────────────────────────────┐
-  │                                                             │
-  │    ███████╗██╗  ██╗███╗   ██╗                               │
-  │    ██╔════╝██║ ██╔╝████╗  ██║                               │
-  │    ███████╗█████╔╝ ██╔██╗ ██║                               │
-  │    ╚════██║██╔═██╗ ██║╚██╗██║                               │
-  │    ███████║██║  ██╗██║ ╚████║                               │
-  │    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝                               │
-  │                                                             │
-  │    OPERATOR       dustin04x                                  │
-  │    DISCIPLINE     Security / Systems / Engineering           │
-  │    ENVIRONMENT    Linux / Rust / C / Python                  │
-  │    APPROACH       Understand the internals.                  │
-  │                   Build beyond the abstraction.              │
-  │                                                             │
-  └─────────────────────────────────────────────────────────────┘
-```
-
-# 00 / INTRODUCTION
-
-I'm **Skander Wali**, a computer science student and cybersecurity enthusiast focused on building software, understanding systems, and exploring how things work beneath the surface.
-
-My interests sit at the intersection of:
-
-- **Systems Engineering** — Rust, C/C++, Linux internals, eBPF and low-level architecture.
-- **Cybersecurity** — Binary exploitation, reverse engineering, network security and digital forensics.
-- **Security Engineering** — HTTP tooling, security automation, DevSecOps and application security.
-- **Software Development** — Backend architecture, desktop applications and full-stack engineering.
-
-I enjoy building things from the ground up, investigating technical problems and turning ideas into functional software.
-
-> I prefer understanding how something works over simply knowing how to use it.
-
----
-
-# 01 / SELECTED WORK
-
-*Engineering projects. Real implementations. Continuous experimentation.*
-
-<div align="center">
-
-<a href="https://github.com/dustin04x/RAWFR4ME">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dustin04x&repo=RAWFR4ME&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" />
-</a>
-<a href="https://github.com/dustin04x/syscall">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dustin04x&repo=syscall&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" />
-</a>
-
-<a href="https://github.com/dustin04x/ELVYN">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dustin04x&repo=ELVYN&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" />
-</a>
-<a href="https://github.com/dustin04x/FlowState">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dustin04x&repo=FlowState&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" />
-</a>
-
-</div>
-
-### `01.1` RAWFRAME
-
-**Terminal-native HTTP interception and security testing workbench.**
-
-A Rust-based security tool for authorized HTTP testing, traffic inspection and request manipulation.
-
-- HTTP/1.1, HTTP/2 and WebSocket testing.
-- Local forward proxy.
-- Opt-in TLS interception.
-- Durable SQLite request history.
-- Interactive request repeater and intruder.
-- Keyboard-driven terminal interface.
-
-[Repository](https://github.com/dustin04x/RAWFR4ME) · [Documentation](https://rawframe.mintlify.site) · [Releases](https://github.com/dustin04x/RAWFR4ME/releases)
-
-### `01.2` SYSCALL
-
-**Linux runtime forensics powered by kernel telemetry.**
-
-An exploration of Linux kernel observability using eBPF and Rust.
-
-- Process lifecycle instrumentation.
-- File-open event collection.
-- Network connection event collection.
-- Rust event decoding.
-- SQLite evidence persistence.
-- CLI and read-only desktop workbench.
-
-[Repository](https://github.com/dustin04x/syscall) · [Documentation](https://syscall.mintlify.site)
-
-### `01.3` ELVYN
-
-**Self-hosted DevSecOps security platform.**
-
-A security scanning platform combining application analysis and isolated scanner execution.
-
-- FastAPI backend.
-- Semgrep static analysis.
-- Gitleaks secret detection.
-- Trivy container scanning.
-- PostgreSQL persistence.
-- Docker-isolated scanner worker.
-
-[Repository](https://github.com/dustin04x/ELVYN)
-
-### `01.4` FLOWSTATE
-
-**Local-first desktop productivity application.**
-
-A focused desktop timer built with Electron, React and TypeScript.
-
-- Customizable focus sessions.
-- Timer presets and break management.
-- System tray integration.
-- Local-first statistics.
-- Windows, macOS and Linux releases.
-
-[Repository](https://github.com/dustin04x/FlowState) · [Website](https://dustin04x.github.io/FlowState/)
-
----
-
-# 02 / THE TOOLCHAIN
-
-<div align="center">
-
-### SYSTEMS & LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,java&theme=dark" />
-
-### WEB & APPLICATION ENGINEERING
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,electron&theme=dark" />
-
-### INFRASTRUCTURE & DATA
-
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,postgres,mysql,mongodb,git&theme=dark" />
-
-</div>
-
-<details>
-<summary><b>EXPLORE TECHNICAL DOMAINS</b></summary>
-
-| Domain | Technologies / Areas |
-|---|---|
-| Systems programming | Rust, C, C++ |
-| Scripting | Python, Bash |
-| Application development | JavaScript, TypeScript, React, Electron |
-| Backend engineering | Node.js, Express, FastAPI |
-| Databases | PostgreSQL, MySQL, MongoDB, SQLite |
-| Security research | Binary exploitation, reverse engineering, web security |
-| Networking | TCP/IP, HTTP, Wireshark, traffic analysis |
-| Linux engineering | Linux administration, eBPF, system internals |
-| Infrastructure | Docker, Git, Linux |
-
-</details>
-
----
-
-# 03 / RESEARCH & INTERESTS
-
-```text
-                         ┌──────────────────┐
-                         │   CYBERSECURITY  │
-                         └────────┬─────────┘
-                                  │
-             ┌────────────────────┼────────────────────┐
-             │                    │                    │
-       ┌─────▼─────┐       ┌──────▼─────┐       ┌──────▼─────┐
-       │  NETWORK  │       │   BINARY   │       │    WEB     │
-       │  ANALYSIS │       │  ANALYSIS  │       │  SECURITY  │
-       └─────┬─────┘       └──────┬─────┘       └──────┬─────┘
-             │                    │                    │
-       Protocols              Exploitation          Pentesting
-       Traffic                 Reverse Eng.          Application
-       Forensics               Memory                API Security
-             │                    │                    │
-             └────────────────────┼────────────────────┘
-                                  │
-                         ┌────────▼─────────┐
-                         │ SYSTEMS SECURITY│
-                         └────────┬─────────┘
-                                  │
-                       Linux / Kernel / eBPF
-                       Architecture / Rust
-```
-
----
-
-# 04 / DEVELOPMENT PHILOSOPHY
-
-```bash
-#!/usr/bin/env bash
-
-RESEARCH="understand the problem"
-DESIGN="question every abstraction"
-BUILD="write the implementation"
-TEST="verify every assumption"
-IMPROVE="repeat until it makes sense"
-
-echo "[+] Research"
-echo "[+] Design"
-echo "[+] Build"
-echo "[+] Test"
-echo "[+] Improve"
-
-# No shortcuts around understanding.
-```
-
-I care about:
-
-- Building software that solves actual problems.
-- Understanding architectural and implementation trade-offs.
-- Writing maintainable, testable code.
-- Security as an engineering discipline, not an afterthought.
-- Documenting decisions and making technical work reproducible.
-
----
-
-# 05 / GITHUB ACTIVITY
-
-<div align="center">
-
-<a href="https://github.com/dustin04x">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dustin04x&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github" />
-</a>
-<a href="https://github.com/dustin04x">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustin04x&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&langs_count=8" />
-</a>
-
-<br/><br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=dustin04x&bg_color=0d1117&color=cccccc&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" />
-
-</div>
-
----
-
-# 06 / CONTRIBUTION GRID
-
-<div align="center">
-
-<img width="96%" src="https://raw.githubusercontent.com/dustin04x/dustin04x/output/snake-dark.svg" alt="GitHub contribution snake animation" />
-
-</div>
-
----
-
-# 07 / FIND ME
-
-<div align="center">
-
-<a href="https://github.com/dustin04x">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/skander-wali-901040391">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/skanderwali">
-<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:skanderwali@protonmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=protonmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-```text
-  CONNECTION ESTABLISHED.
-
-  Security. Engineering. Open source.
-  Always interested in building something meaningful.
-
-  ──────────────────────────────────────────
-
-  UNDERSTAND THE SYSTEM.
-  BUILD WHAT DOESN'T EXIST.
-```
-
-<sub>SKANDER WALI · DUSTIN04X · 2026</sub>
-
-</div>
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Rust · TypeScript · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>25 repositories · 65 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>226 contributions · 46 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Building useful software and sharing the work in public.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>25</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>65</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>226</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>12</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=dustin04x&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79025357%3Fu%3De256b1301af10c1b17d1b407d4bbb2aa2e97d9c1%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=dustin04x&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79025357%3Fu%3De256b1301af10c1b17d1b407d4bbb2aa2e97d9c1%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Skander Wali GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=dustin04x&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79025357%3Fu%3De256b1301af10c1b17d1b407d4bbb2aa2e97d9c1%26v%3D4&repos=dustin04x%2FCryptography-helper%2Cdustin04x%2Fdiscord-ai-assistant%2Cdustin04x%2Fportscanner%2Cdustin04x%2Fcrypto-toolbox&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=dustin04x&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79025357%3Fu%3De256b1301af10c1b17d1b407d4bbb2aa2e97d9c1%26v%3D4&repos=dustin04x%2FCryptography-helper%2Cdustin04x%2Fdiscord-ai-assistant%2Cdustin04x%2Fportscanner%2Cdustin04x%2Fcrypto-toolbox&v=recruiter-projects-1&mode=dark" width="100%" alt="Skander Wali selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/dustin04x/Cryptography-helper">Cryptography-helper</a></h3>
+<p>A sleek and easy-to-use web app for encrypting, decrypting, encoding, and learning about cryptography — all in your browser.</p>
+<p><sub>TypeScript · ⭐ 7 · 🍴 0</sub></p>
+<p><a href="https://github.com/dustin04x/Cryptography-helper">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/dustin04x/discord-ai-assistant">discord-ai-assistant</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 6</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/dustin04x/portscanner">portscanner</a></h3><p>An open port scanner with multithreading</p><p><sub>Python · ⭐ 6</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/dustin04x/crypto-toolbox">crypto-toolbox</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 3</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=dustin04x&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79025357%3Fu%3De256b1301af10c1b17d1b407d4bbb2aa2e97d9c1%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=dustin04x&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79025357%3Fu%3De256b1301af10c1b17d1b407d4bbb2aa2e97d9c1%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Skander Wali technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Rust</strong><br /><sub>50% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>32% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>5% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>5% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=dustin04x&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79025357%3Fu%3De256b1301af10c1b17d1b407d4bbb2aa2e97d9c1%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=dustin04x&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79025357%3Fu%3De256b1301af10c1b17d1b407d4bbb2aa2e97d9c1%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Skander Wali contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/dustin04x">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Skander Wali · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
